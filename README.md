@@ -22,6 +22,8 @@ basic level of skills: JS / HTML / CSS / SASS / Webpack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaPolya)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/OlyaPolya-rss/badges/large)](https://www.codewars.com/users/OlyaPolya-rss)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyaPolya&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/OlyaPolya)  
