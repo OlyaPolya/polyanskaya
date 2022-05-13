@@ -7,7 +7,7 @@ Technical character, the ability to learn quickly and the desire to work hard to
 
 basic level of skills: JS / HTML / CSS / SASS / Webpack
 
-- 🌱 I’m currently learning JS and everything connected with it
+- 🌱 I’m currently learning JS and everything about it
 - :tada: My project are:
   - <a href="http://https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/memory-game/">Memory game</a>
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/random-jokes/">Random Jokes</a>
