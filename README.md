@@ -10,6 +10,7 @@ basic level of skills: JS / HTML / CSS / SASS / Webpack
 - 🌱 I’m currently learning JS and everything about it
 - :tada: My project are:
   - <a href="http://https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/memory-game/">Memory game</a>
+  - <a href="https://olyapolya.github.io/cssMemSlider/cssMemSlider/">CSS Meme slider</a>
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/random-jokes/">Random Jokes</a>
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/portfolio/">Portfolio</a>
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/js30-eco-sounds/">Eco sounds</a>
