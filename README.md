@@ -19,7 +19,7 @@ basic level of skills: JS / HTML / CSS / SASS / Webpack
 - 📫 How to reach me: polyanskaya3000@gmail.com 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaPolya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaPolya)](https://github.com/OlyaPolya/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/OlyaPolya-rss/badges/large)](https://www.codewars.com/users/OlyaPolya-rss)
 
