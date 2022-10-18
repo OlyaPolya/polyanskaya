@@ -5,7 +5,7 @@
 At the moment I am going through online training at RS.school (front-end). Earlier, I successfully passed the qualifying round of School 21 from Sberbank. In preparation for these qualifiers, I completed “C Programming Fundamentals” with honors.
 Technical character, the ability to learn quickly and the desire to work hard to achieve the goal.
 
-basic level of skills: JS / HTML / CSS / SASS / Webpack
+basic level of skills: JS / HTML / CSS / SASS / Webpack / TS / React
 
 - 🌱 I’m currently learning JS and everything about it
 - :tada: My project are:
