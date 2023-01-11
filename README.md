@@ -2,12 +2,12 @@
 #### I am very junior front-end developer
 ![Green and Gold Creative Mother's Day Card Landscape](https://user-images.githubusercontent.com/83548013/168206352-b913658d-b1f0-4730-bfd1-a6709e07d81b.png)
 
-At the moment I am going through online training at RS.school (front-end). Earlier, I successfully passed the qualifying round of School 21 from Sberbank. In preparation for these qualifiers, I completed “C Programming Fundamentals” with honors.
+I graduated from <a href="https://rs.school/">RS-School</a> in <a href="https://app.rs.school/certificate/0vqsp0c1">React</a> and <a href="https://app.rs.school/certificate/1ggl1j98">JavaScript/Front-end</a> and <a href="https://app.rs.school/certificate/jka18kb2">JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)</a>
 Technical character, the ability to learn quickly and the desire to work hard to achieve the goal.
 
 basic level of skills: JS / HTML / CSS / SASS / Webpack / TS / React
 
-- 🌱 I’m currently learning JS and everything about it
+- 🌱 I’m currently learning Front-end and everything about it
 - :tada: My project are:
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/memory-game/">Memory game</a>
   - <a href="https://olyapolya.github.io/cssMemSlider/cssMemSlider/">CSS Meme slider</a>
