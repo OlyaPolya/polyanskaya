@@ -9,8 +9,8 @@ basic level of skills: JS / HTML / CSS / SASS / Webpack / TS / React
 
 - 🌱 I’m currently learning Front-end and everything about it
 - :tada: My project are:
-  - <a href="https://olyapolya.github.io/rslang/main.html">RS Lang</a>
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/memory-game/">Memory game</a>
+  - <a href="https://olyapolya.github.io/rslang/main.html">RS Lang</a>
   - <a href="https://olyapolya.github.io/cssMemSlider/cssMemSlider/">CSS Meme slider</a>
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/random-jokes/">Random Jokes</a>
   - <a href="https://rolling-scopes-school.github.io/olyapolya-JSFEPRESCHOOL/portfolio/">Portfolio</a>
