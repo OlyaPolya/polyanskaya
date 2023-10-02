@@ -26,4 +26,3 @@ basic level of skills: JS / HTML / CSS / SASS / Webpack / TS / React
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyaPolya&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/OlyaPolya)  
