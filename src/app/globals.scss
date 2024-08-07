@@ -1,0 +1,63 @@
+/* stylelint-disable selector-max-type */
+:root {
+  --max-width: 1080px;
+  --border-radius: 12rem;
+  --size-ratio: calc(1vw + 1vh);
+  --fz-xxxl: 5rem;
+  --fz-xxl: 4rem;
+  --fz-xl: 3rem;
+  --fz-main: 1.3rem;
+  --fz-s: 0.8rem;
+  --box-shadow: 0 0 10px 0 rgba(241, 241, 241, 30%);
+  --gap-h2: 1rem;
+  --gap-sections: 5rem;
+  --color-background: black;
+  --color-additional: #7c7673;
+  --color-main: #FFF;
+  --color-accent: #E63946;
+}
+
+// https://coolors.co/palette/ffffff-f1faee-a8dadc-457b9d-1d3557-e63946-bb0a21-000000
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+
+body {
+  position: relative;
+  overflow-x: hidden;
+  background: var(--color-background);
+  color: var(--color-main);
+  font-size: var(--fz-main);
+  font-family: var(--font-main);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+ul,
+ol,
+li {
+  margin: 0;
+  list-style: none;
+}
+
+

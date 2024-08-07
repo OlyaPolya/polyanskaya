@@ -6,19 +6,38 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "stylelint": "npx stylelint '**/*.scss'",
+    "prepare": "husky",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "dependencies": {
+    "next": "14.2.5",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@testing-library/jest-dom": "^6.4.8",
+    "@testing-library/react": "^16.0.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.5",
+    "eslint-plugin-react": "^7.35.0",
+    "husky": "^9.1.1",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "lint-staged": "^15.2.7",
+    "sass": "^1.77.8",
+    "stylelint": "^16.7.0",
+    "stylelint-config-hudochenkov": "^10.0.0",
+    "stylelint-config-standard-scss": "^13.1.0",
+    "typescript": "^5"
+  },
+  "lint-staged": {
+    "src/**/*.{js, jsx}": "eslint",
+    "src/**/*..{css, scss}": "stylelint"
   }
 }
