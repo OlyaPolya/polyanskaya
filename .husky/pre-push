@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname "$0")/h"
+
+# yarn test
+
+# git push ---no-verify

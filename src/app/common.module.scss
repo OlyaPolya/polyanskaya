@@ -1,0 +1,38 @@
+.wrapper {
+  display: grid;
+  row-gap: var(--gap-sections);
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 50px 20px 20px;
+}
+
+.title {
+  margin-bottom: var(--gap-h2);
+  font-weight: 500;
+  font-size: var(--fz-xl);
+  font-family: var(--font-handwriting);
+  text-align: center;
+}
+
+.error, .notFound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  height: 100dvh;
+}
+
+.animation {
+  animation: appearance 1s linear;
+}
+
+@keyframes  appearance {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

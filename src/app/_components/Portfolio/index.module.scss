@@ -1,0 +1,8 @@
+.portfolio {
+  &__list {
+    display: flex;
+    flex-direction: column;
+    row-gap: 3rem;
+    align-items: center;
+  }
+}
