@@ -4,8 +4,6 @@ import { Great_Vibes, Montserrat, Caveat } from "next/font/google";
 import { AppContextProvider } from './_context/appContext';
 import ErrorBoundary from './_components/ErrorBoundary';
 import Error from './error';
-import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google'
-
 
 const caveat = Caveat({
   weight: '400',
@@ -40,7 +38,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ru">
-      <GoogleAnalytics gaId="G-0DEPSJZBBL"/>
       <body className={`${caveat.variable} ${montserrat.variable} ${greatVibes.variable}`}>
           <ErrorBoundary fallback={<Error/>}>
             <AppContextProvider>
