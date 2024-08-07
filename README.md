@@ -3,7 +3,7 @@
 
 Since 2023, I have been supporting, improvement, and developing new functionality on two projects of the same company: a dating app and a real estate rental app
 
-:tada: My stack is: 
+:tada: My stack is:
 - React
 - Vue
 - SASS
@@ -12,7 +12,7 @@ Since 2023, I have been supporting, improvement, and developing new functionalit
 - Webpack
 - TS
 
-📫 How to reach me: 
+📫 How to reach me:
   - <a href="mailto:polyanskaya3000@gmail.com" target="_blank">polyanskaya3000@gmail.com</a>
   - <a href="https://t.me/o_polyanskaya" target="_blank">Telegram</a>
   - <a href="https://discordapp.com/users/919941750548738059/" target="_blank">Discord</a>
@@ -22,5 +22,4 @@ Since 2023, I have been supporting, improvement, and developing new functionalit
 
 [![codewars](https://www.codewars.com/users/OlyaPolya-rss/badges/large)](https://www.codewars.com/users/OlyaPolya-rss)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyaPolya&show_icons=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyaPolya&show_icons=true)
