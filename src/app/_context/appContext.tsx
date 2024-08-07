@@ -5,12 +5,12 @@ import { appContent } from '../_constants/content';
 import { AppContentProps } from '../_constants/types';
 
 export const AppContext = createContext<AppContentProps>({
-  pages: {
-    main: {
+  pages: [
+    {
       path: '',
       title: '',
     }
-  },
+  ],
   about:  {
     title: '',
   },
@@ -21,18 +21,37 @@ export const AppContext = createContext<AppContentProps>({
   skills: {
     title: '',
     description: [],
-    stack: {},
+    stack: [
+      {
+        title: '',
+        img: '',
+      }
+    ],
   },
   courses: {
     title: '',
   },
   contacts: {
     title: '',
-    stack: {},
+    stack: [
+      {
+        title: '',
+        img: '',
+        link: ''
+      },
+    ],
   },
   portfolio: {
     title: '',
-    stack: {},
+    stack: [
+      {
+        title: '',
+        description: '',
+        img: '',
+        link: '',
+        badges: []
+      },
+    ],
   },
 });
 
